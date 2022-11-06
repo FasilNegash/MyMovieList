@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\movieApp",
+    "\\movieApp\\src",
+    "\\movieApp\\src\\app",
+    "\\movieApp\\src\\app\\pages",
+    "\\movieApp\\src\\app\\pages\\moviedetail",
+    "\\movieApp\\src\\app\\pages\\movies",
+    "\\movieApp\\src\\app\\services",
+    "\\movieApp\\src\\environments"
+  ],
+  "SelectedNode": "\\movieApp\\src\\app\\app.component.scss",
+  "PreviewInSolutionExplorer": false
+}
